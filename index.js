@@ -35,20 +35,25 @@ header{padding:20px;text-align:center;background:#111827}
 <h1>Im Rerezz</h1>
 </header>
 <div class="container">
+
 <div class="card">
 <h2>Welcome</h2>
 <p>Website Node.js Express siap pakai dengan AdSense</p>
 </div>
 
 <div class="adbox">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4397021684170784"
+crossorigin="anonymous"></script>
+
 <ins class="adsbygoogle"
- style="display:block"
- data-ad-client="ca-pub-4397021684170784"
- data-ad-slot="1234567890"
- data-ad-format="auto"
- data-full-width-responsive="true"></ins>
+style="display:block"
+data-ad-client="ca-pub-4397021684170784"
+data-ad-slot="3814214978"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+
 <script>
-(adsbygoogle = window.adsbygoogle || []).push({})
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
 
@@ -56,6 +61,7 @@ header{padding:20px;text-align:center;background:#111827}
 <h2>Konten</h2>
 <p>Isi website kamu di sini</p>
 </div>
+
 </div>
 </body>
 </html>
