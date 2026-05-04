@@ -7,6 +7,10 @@ app.get("/ads.txt", (req, res) => {
   res.type("text/plain")
   res.send("google.com, pub-4397021684170784, DIRECT, f08c47fec0942fa0")
 })
+app.get("/Ads.txt", (req, res) => {
+  res.type("text/plain")
+  res.send("google.com, pub-4397021684170784, DIRECT, f08c47fec0942fa0")
+})
 
 app.get("/", (req, res) => {
   res.send(`
